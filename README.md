@@ -1,4 +1,6 @@
 # yhs_driver
+
+
 ## 安装can驱动
 
 ### 1.进入工作空间并clone repo
@@ -57,7 +59,9 @@
 
 
 
-### 4.重新拔插can usb, 看到RX和TX灯亮起就说明配置成工
+### 4.重新拔插can usb, 看到RX和TX灯亮起就说明配置成功
+
+
 
 
 
@@ -69,7 +73,7 @@
 
 `$ catkin build `
 
-### 
+
 
 ### 2.运行launch文件
 
@@ -102,5 +106,3 @@
 
 
 ### 5.其他topic可以看doc目录下canTopic文档
-
-## 
